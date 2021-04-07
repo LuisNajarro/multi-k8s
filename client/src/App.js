@@ -18,6 +18,7 @@ function App() {
           >
             Learn React
           </a>
+          <h1>Fib Calculatod version KUBERNETES!</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
